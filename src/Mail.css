@@ -1,0 +1,46 @@
+.mail-container {
+    margin-top: 2rem;
+    text-align: center;
+}
+.contact-inputs{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.bt11{
+    padding: 0.8rem 8rem;
+    margin-top: 0.5rem;
+    text-align: center;
+    border:2px solid rgb(11,82,91);
+    border-radius: 2px;
+}
+input[type="submit"] {
+    cursor: pointer;
+    transition: all 0.2s
+    ;}
+    .text{
+        height: 5rem;
+        width:  26.8rem;
+        margin-top: 0.5rem;
+        border:2px solid rgb(11,82,91);
+        font-family: 'Courier New', Courier, monospace;
+        
+    }
+    .btn2{
+        margin: 1rem 0rem;
+        padding: 1.5rem 12.4rem;
+        border-radius: 1rem;
+        font-size: 1rem;
+        font-weight: bold;
+        text-align: center;
+        border:none;
+        background-color: red;
+        color: #fff;
+        transition: 0.7s;
+    }
+    .btn2:hover{
+        background-color: rgb(153,59,117);
+        cursor: pointer;
+        scale: 1.025;
+    }

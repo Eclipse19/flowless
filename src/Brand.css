@@ -1,0 +1,18 @@
+.uni{
+    height: 80px;
+    width: 90px;
+}
+.uni2{
+    height: 30px;
+}
+.uni3{
+    height: 50px;
+    width: 100px;
+}
+.brand-image{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    /* border: 1px solid red; */
+    background-color: #f3bbaf;
+}

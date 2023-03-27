@@ -1,0 +1,47 @@
+.bg{
+    background-image: url('../src/assite/lip1.jpg');
+    height: 70vh;
+    background-Size: 'cover';
+    /* border-radius: 0rem 0rem 2rem 2rem; */
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.hero-right{
+    padding: 2rem;
+    padding-top: 4rem;
+}
+.hero-right>h2{
+  color:#fff;
+  font-size: 3rem;
+  margin-top: 3rem;
+}
+.tag-line1{
+    color: #fff;
+    font-size: 2rem;
+    margin-top: 3rem;
+}
+.tag-line2{
+    color: #fff;
+    font-size: 2.5rem;
+}
+.tag-line3{
+    color: #292626;
+    margin-top: 3rem;
+    font-size: 1rem;
+}
+.btn{
+    margin-top: 1rem;
+    padding: 1.5rem 6rem;
+    border-radius: 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+    border:none;
+    background-color: red;
+    color: #fff;
+    transition: 0.7s;
+}
+.btn:hover{
+    background-color:rgb(153,59,117);
+    scale: 1.025;
+}

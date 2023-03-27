@@ -1,0 +1,16 @@
+.center{
+    text-align: center;
+    
+    /* margin: 2rem 0rem; */
+    padding: 2rem 2rem;
+    background-color: #ff85a1;
+}
+
+.center>h3{
+    font-size: 2rem;
+    color: #fff;
+}
+.center>h2{
+    font-size: 2rem;
+    color: #fff;
+}

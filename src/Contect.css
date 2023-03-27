@@ -1,0 +1,9 @@
+.common-heading{
+    padding: 3rem;
+    text-align: center;
+    font-size: 2rem;
+    /* background-color:rgb(255,133,161); */
+    color: rgb(11,82,91);
+    text-transform:capitalize;
+    font-family: 'Josefin Sans', sans-serif;
+}
